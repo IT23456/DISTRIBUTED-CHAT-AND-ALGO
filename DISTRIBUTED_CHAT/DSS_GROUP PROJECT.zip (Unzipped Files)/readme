@@ -1,0 +1,23 @@
+System Requirement->
+Linux Ubuntu 
+Python 3.8
+
+#Task 1 => Chat System
+-> Open the terminal
+-> Run < python3 create.py > for 1st task implementation.
+
+#Task 2 => Leader Election Bully Algorithm
+-> Open the terminal
+-> Run < python3 run.py>
+! You can change number of users by updating users variable(default=3)
+! 3 Terminals will open up with 3 as leader. Now close the 3rd terminal. After some time, anyone of 1st or 2nd terminal will notice that leader is missing and initiate leader election.
+
+#Task 3 => Resource Deadlock Detection
+-> Open the terminal
+-> Run < python3 run.py>
+! Wait for 5 sec before getting the output in terminal if there is a deadlock or not.
+
+
+
+
+
